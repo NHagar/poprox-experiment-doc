@@ -1,5 +1,5 @@
 # Experiment Documentation 
-## Experiment ID: @InsertExpIDHere@
+## Experiment ID: a98ae366-8ca1-4d70-be9f-46c47ca4223f
 
 ## Purpose
 This repository will be the primary means of technical communication between your team and POPROX staff throughout the course of developing, executing, and evaluating your POPROX experiment.
@@ -10,7 +10,7 @@ Refer to the [POPROX Researcher Guide](https://docs.poprox.ai/index.html) for in
 
 ## Contents
  
-* [Intake form]. This was the document that you initially supplied to get your project approved for intake into the POPROX platform. It may need to be updated as your design and plans evolve. 
+* [Intake form](https://docs.google.com/document/d/12ia6aBwVxN5lgdhDDKTvoffuwNFjQy0t/edit#heading=h.gjdgxs). This was the document that you initially supplied to get your project approved for intake into the POPROX platform. It may need to be updated as your design and plans evolve. 
 * Human subjects folder (`human-subjects`):
 	* Protocol: We have supplied here a template protcol based on the blanket approval provided by our institutional IRB. Your institution may require a different format for this information. You will need to fill in the details of this work and edit sections that do not apply to your work. The protocol must be approved by the local IRB for you and your collaborators in order for your experiment to proceed. If your experiment design falls outside the blanket approval (see (Human subjects discussion)[https://docs.poprox.ai/guide/stages/specification.html#human-subjects] in the Researcher Guide), we will also need to seek approval from our IRB for an exception.
 	* Master protocol: This is a copy of the master protocol approved for the POPROX platform. Your local IRB may request this document as part of the approval process.
